@@ -24,9 +24,3 @@ The project consists of two main tasks designed to demonstrate polymorphic behav
 * [cite_start]**Method Overriding**: Implementation of `toString()` for customized object printing and `equals()` for logical object comparison[cite: 55, 120, 121, 130].
 * [cite_start]**Access Control**: Proper use of private and protected members to ensure encapsulation[cite: 9, 45].
 * [cite_start]**Constants & Statics**: Use of the `final` keyword to prevent ID modifications and static counters for unique identification[cite: 9, 61, 113, 116].
-
-## 🚀 How to Run
-1. [cite_start]Ensure you have the Java Development Kit (JDK) installed[cite: 26].
-2. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/Java-OOP-Inheritance-Systems.git](https://github.com/YourUsername/Java-OOP-Inheritance-Systems.git)
